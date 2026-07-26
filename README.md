@@ -6,9 +6,21 @@
 Desenvolvedor Java | Spring Boot | APIs REST | Backend
 </h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3FA9F5&center=true&vCenter=true&width=650&lines=Desenvolvedor+Java;Especializado+em+Backend;Spring+Boot+%7C+APIs+REST;Sempre+aprendendo+novas+tecnologias" />
-</p>
+<table align="center">
+<tr>
+<td>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3FA9F5&center=true&vCenter=true&width=650&lines=Desenvolvedor+Java;Especializando+em+Backend;Spring+Boot+%7C+APIs+REST;Sempre+aprendendo+novas+tecnologias"/>
+
+</td>
+
+<td>
+
+<img width="220" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -41,7 +53,6 @@ Estou sempre buscando novos desafios e aperfeiçoando meus conhecimentos para ev
 <img height="170" src="https://streak-stats.demolab.com?user=adenilson-silva-dev3561&theme=tokyonight&hide_border=true"/>
 
 <br><br>
-
 
 </p>
 
