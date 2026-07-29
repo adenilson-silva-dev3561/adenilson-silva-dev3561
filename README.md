@@ -90,7 +90,7 @@ O projeto está sendo desenvolvido de forma incremental, com foco em arquitetura
 
 ### 📂 Repositório
 
-➡️ https://github.com/adenilson-silva-dev3561/ecafe-api
+➡️ https://github.com/adenilson-silva-dev3561/ecafeApi
 
 ---
 
