@@ -28,24 +28,25 @@ Java • Spring Boot • PostgreSQL • APIs REST
 </tr>
 </table>
 
+---
 
 # 👨‍💻 Sobre mim
 
 Sou Desenvolvedor Backend Java focado no desenvolvimento de APIs REST utilizando Java e Spring Boot.
 
-Busco evoluir continuamente por meio da prática, desenvolvendo projetos que simulam cenários reais e aplicando boas práticas de arquitetura de software, código limpo, validações, tratamento global de exceções, documentação e versionamento de código.
+Busco evoluir continuamente por meio da construção de projetos reais, aplicando boas práticas de arquitetura de software, código limpo, validações, tratamento global de exceções, documentação e versionamento de código.
 
 Atualmente desenvolvo aplicações utilizando Java, Spring Boot, Spring Data JPA, Hibernate e PostgreSQL, sempre buscando construir soluções organizadas, escaláveis e de qualidade.
 
 ---
 
-# ☕ Projeto em Destaque
+# 🚀 Projeto em Destaque
 
-## eCafe API
+## ☕ eCafe API
 
-O **eCafe API** é um projeto pessoal desenvolvido para simular o backend de uma cafeteria, aplicando conceitos utilizados em aplicações reais.
+O **eCafe API** é um projeto pessoal desenvolvido para simular o backend de um sistema de gestão comercial para uma loja especializada na venda de cafés, grãos, doces, amendoins, paçocas, rapaduras e diversos produtos alimentícios.
 
-O projeto está sendo desenvolvido de forma incremental, com foco em arquitetura limpa, organização em camadas e boas práticas de desenvolvimento backend.
+O objetivo do projeto é aplicar tecnologias e boas práticas utilizadas em aplicações reais, construindo uma API REST escalável, organizada em camadas e preparada para evoluir continuamente.
 
 ### ✅ Funcionalidades implementadas
 
@@ -55,7 +56,7 @@ O projeto está sendo desenvolvido de forma incremental, com foco em arquitetura
 - Bean Validation
 - Tratamento Global de Exceções
 - Logs Estruturados
-- Documentação com Swagger/OpenAPI
+- Documentação com Swagger / OpenAPI
 
 ---
 
@@ -64,24 +65,31 @@ O projeto está sendo desenvolvido de forma incremental, com foco em arquitetura
 - Carrinho de Compras
 - Pedidos
 - Controle de Estoque
+- Dashboard Administrativo
 - Pagamentos
-- Dashboard
-- Integração NFC-e
-- Impressão de pedidos
-- Notificações
-- Keycloak (Autenticação)
+- Emissão de NFC-e
+- Impressão de Pedidos
+- Upload de Imagens
+- Docker
+- Redis
+- JWT
+- Keycloak
+- Testes Unitários
+- Testcontainers
+- CI/CD com GitHub Actions
 
 ---
 
 ### 🚀 Tecnologias utilizadas
 
-- Java
+- Java 21
 - Spring Boot
 - Spring Data JPA
 - Hibernate
 - PostgreSQL
 - Maven
 - Swagger / OpenAPI
+- Bean Validation
 - Git
 - GitHub
 - Docker (em aprendizado)
@@ -90,7 +98,7 @@ O projeto está sendo desenvolvido de forma incremental, com foco em arquitetura
 
 ### 📂 Repositório
 
-➡️ https://github.com/adenilson-silva-dev3561/ecafeApi
+➡️ **https://github.com/adenilson-silva-dev3561/ecafeApi**
 
 ---
 
@@ -154,8 +162,10 @@ O projeto está sendo desenvolvido de forma incremental, com foco em arquitetura
 
 - Docker
 - Keycloak
+- Spring Security
 - JUnit 5
 - Mockito
+- Testcontainers
 - Arquitetura de Software
 - Design Patterns
 
@@ -164,9 +174,10 @@ O projeto está sendo desenvolvido de forma incremental, com foco em arquitetura
 # 🎯 Objetivos
 
 - Desenvolver aplicações backend escaláveis.
-- Aprimorar conhecimentos em arquitetura de software.
-- Evoluir continuamente através da construção de projetos reais.
-- Compartilhar conhecimento e contribuir com a comunidade.
+- Aprofundar conhecimentos em arquitetura de software.
+- Construir projetos que simulem cenários reais do mercado.
+- Evoluir continuamente por meio da prática.
+- Compartilhar conhecimento com a comunidade.
 
 ---
 
